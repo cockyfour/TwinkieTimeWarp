@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/BakeryScene.unity
+    guid: 2f5f8c846e57f6f4bbdfb7ceba1e69da
+  - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Street.unity
+    guid: 240fefaa65dc57349a43a6c6b77d5aae
+  - enabled: 1
+    path: Assets/Scenes/Diner Scene.unity
+    guid: f5b7625eac26a594dae08da4667ce337
+  - enabled: 1
+    path: Assets/The End!.unity
+    guid: d175695ba3fe83a45bdb749adbdc94c7
   m_configObjects: {}
